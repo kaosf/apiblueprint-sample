@@ -1,6 +1,6 @@
 # HTTP API HTML Document from Markdown
 
-Install Node.js v0.12.x at first.
+Install Node.js v5.1.1 at first.
 
 ```sh
 npm install -g gulp
